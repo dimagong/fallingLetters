@@ -1,3 +1,20 @@
+# Falling Letters (React)
+
+## Preconditions:
+
+1. nodejs (https://nodejs.org/en/)
+2. yarn (https://yarnpkg.com/lang/en/)
+
+## For running project necessary to perform:
+
+1. $ cd fallingLetters
+2. $ yarn install
+3. $ yarn start
+
+## To builds the app for production
+
+$ yarn run --production build
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
