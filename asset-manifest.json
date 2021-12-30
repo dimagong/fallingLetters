@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fallingLetters/static/css/main.100d8b62.css",
-    "main.js": "/fallingLetters/static/js/main.17df24f0.js",
-    "static/js/787.7b5f2a69.chunk.js": "/fallingLetters/static/js/787.7b5f2a69.chunk.js",
-    "index.html": "/fallingLetters/index.html",
-    "main.100d8b62.css.map": "/fallingLetters/static/css/main.100d8b62.css.map",
-    "main.17df24f0.js.map": "/fallingLetters/static/js/main.17df24f0.js.map",
-    "787.7b5f2a69.chunk.js.map": "/fallingLetters/static/js/787.7b5f2a69.chunk.js.map"
+    "main.css": "/fallingletters/static/css/main.100d8b62.css",
+    "main.js": "/fallingletters/static/js/main.5e119a97.js",
+    "static/js/787.7b5f2a69.chunk.js": "/fallingletters/static/js/787.7b5f2a69.chunk.js",
+    "index.html": "/fallingletters/index.html",
+    "main.100d8b62.css.map": "/fallingletters/static/css/main.100d8b62.css.map",
+    "main.5e119a97.js.map": "/fallingletters/static/js/main.5e119a97.js.map",
+    "787.7b5f2a69.chunk.js.map": "/fallingletters/static/js/787.7b5f2a69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.100d8b62.css",
-    "static/js/main.17df24f0.js"
+    "static/js/main.5e119a97.js"
   ]
 }
